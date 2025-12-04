@@ -1,0 +1,5 @@
+{
+  "name": "Mermaid AI Architect",
+  "description": "A smart Mermaid.js diagram editor with real-time rendering, local storage persistence, and AI-powered syntax repair.",
+  "requestFramePermissions": []
+}
